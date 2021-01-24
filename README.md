@@ -1,63 +1,52 @@
-# Reverse Engineering
+## Reverse Engineering
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/FullStackable)
-
-Reverse Engineering Code - UCF Coding BootCamp
-
-![FullStackable](engineering.gif)
+- [Description](#Description)
+- [Installations](#Installations)
+- [Licence](#Licence)
+- [Run the app](#test)
+- [Contributing](#Contributing)
+- [Demo Video](#Project-Demo-Video)
+- [Credits](#Credits)
+- [Questions](#Questions)
 
 ## Description
-​
- 
-This app allows users to create an account, log into the account and sign back out securely. all user data is stored in a mysql database.
+* AS A developer
 
-​
-## Table of Contents
-* [Installation](#installation) 
- 
-* [Usage](#usage) 
- 
-* [License](#license) 
- 
-* [Contributing](#contributing) 
- 
-* [Tests](#tests) 
- 
-* [Questions](#questions) 
+I WANT a walk-through of the codebase
 
-## Installation
-​
-To install necessary dependencies, run the following command:
-​
-npm install
-​
-## Usage
-​
-Run "node server.js" to start the server localhost:8080
-​
+SO THAT I can use it as a starting point for a new project
 
-## Demo
-​
-Visit to see my work: https://manny-engineering.herokuapp.com/
-Login: mail@mail.com Pass: 123456
+## Installations
 
+* npm init -y
+* npm i bcryptjs 
+* npm i mysql2
+* npm i express-session
+* npm i express
+* npm i passport
+* npm i passport-local
+* npm i express-session
+* npm i sequelize
 
-## License
-​
-This project is licensed under the MIT license.
-  
 ## Contributing
-​
-[FullStackable]('https://github.com/FullStackable') 
+A work in progress. And the possibilities are endless. <br> Please feel free to submit any code updates for review and acceptance.
+* ['RecipNow! - Github Repo'](https://github.com/baello2020/Reverse_Engineering)
 
-## Tests
-​
-To run tests, run the following command:
-​
-npm test
-​
+## Licence
+
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Test
+Insert Link here
+## Project Demo Video
+
+https://www.youtube.com/watch?v=-2Y85HQMijc&feature=youtu.be&ab_channel=OrlandoB
+## Credits
+Hat tip to UW / Trilogy instructor, TAs and staffs.
+![UW](https://github.com/baello2020/Note_Taker/blob/main/assets/UWT.jpg "UW")
+
 ## Questions
-​
-<img src="https://avatars1.githubusercontent.com/u/7883863?v=4" alt="avatar" style="border-radius: 16px" width="30" />
+please feel free to ask me any questions.
+* ['Visit My Portfolio'](https://baello2020.github.io/Updated_Portfolio_Page/)
 
-If you have any questions about the repo, open an issue or contact [FullStackable](https://github.com/FullStackable) directly at .
+* Baello2020@gmail.com
