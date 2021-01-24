@@ -30,7 +30,7 @@ SO THAT I can use it as a starting point for a new project
 
 ## Contributing
 A work in progress. And the possibilities are endless. <br> Please feel free to submit any code updates for review and acceptance.
-* ['RecipNow! - Github Repo'](https://github.com/baello2020/Reverse_Engineering)
+* ['Reverse Engineering - Github Repo'](https://github.com/baello2020/Reverse_Engineering)
 
 ## Licence
 
