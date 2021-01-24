@@ -40,9 +40,9 @@ A work in progress. And the possibilities are endless. <br> Please feel free to 
 Insert Link here
 ## Project Demo Video
 
-* Part 1
+* Part 1 <br>
 https://www.youtube.com/watch?v=-2Y85HQMijc&feature=youtu.be&ab_channel=OrlandoB
-* Part 2
+* Part 2 <br>
 https://www.youtube.com/watch?v=IlbUdKlCIX8&feature=youtu.be&ab_channel=OrlandoB
 
 
