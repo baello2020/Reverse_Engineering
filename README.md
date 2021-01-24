@@ -40,7 +40,12 @@ A work in progress. And the possibilities are endless. <br> Please feel free to 
 Insert Link here
 ## Project Demo Video
 
+* Part 1
 https://www.youtube.com/watch?v=-2Y85HQMijc&feature=youtu.be&ab_channel=OrlandoB
+* Part 2
+https://www.youtube.com/watch?v=IlbUdKlCIX8&feature=youtu.be&ab_channel=OrlandoB
+
+
 ## Credits
 Hat tip to UW / Trilogy instructor, TAs and staffs.
 ![UW](https://github.com/baello2020/Note_Taker/blob/main/assets/UWT.jpg "UW")
