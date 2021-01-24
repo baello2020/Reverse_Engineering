@@ -1,3 +1,34 @@
+// Requires mysql
+var mysql = require("mysql");
+
+var connection;
+
+// Creates connection
+if (process.env.JAWSDB_URL) {
+  connection = mysql.createConnection(process.env.JAWSDB_URL);
+} else {
+  connection = mysql.createConnection({
+    host: "cis9cbtgerlk68wl.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    //Port
+    port: 3306,
+    // Username
+    user: "r9q5r8c3sqih0onq",
+    // Password
+    password: "o40guqx7pn61v7dj",
+    // DataBase
+    database: "fucnaad9s32phnwf"
+  });
+};
+
+// Error handling
+connection.connect(function (err) {
+  if (err) throw err;
+  console.log("Connected!");
+});
+
+// Test comment
+module.exports = connection;
+
 // Requiring necessary npm packages
 var express = require("express");
 var session = require("express-session");
